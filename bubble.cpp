@@ -2,6 +2,7 @@
 #include <vector>
 using namespace std;
 
+//随便测试一下，sort模式
 void show(vector<int> &temp);
 int main()
 {
