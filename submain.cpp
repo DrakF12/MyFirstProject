@@ -1,4 +1,4 @@
 #include <iostream>
-using name std;
-// This work is finished by YZH at 20:28
+using namespace std;
+// This work is finished by YZH at 20:20
 // This is for second
